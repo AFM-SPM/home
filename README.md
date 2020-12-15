@@ -4,7 +4,7 @@ This repository is a base for the afmstats GitHub organisation. The current obje
 
 * Host and facilitate development of AFM/SPM software in git repositories.
 * Host static forks of repositories where development is taking place elsewhere.
-* Curate lists of software useful for AFM/SPM.
+* Curate [lists of software](software.csv) useful for AFM/SPM.
 * Host and index AFM/SPM training material.
 * Provide [a place to discuss things related to the above](https://github.com/afmstats/home/discussions).
 
