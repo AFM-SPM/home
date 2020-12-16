@@ -1,6 +1,6 @@
-# afmstats home
+# AFM-SPM home
 
-This repository is a base for the afmstats GitHub organisation. The current objectives of the organisation are (loosely):
+This repository is a base for the AFM-SPM GitHub organisation. The current objectives of the organisation are (loosely):
 
 * Host and facilitate development of AFM/SPM software in git repositories.
 * Host static forks of repositories where development is taking place elsewhere.
